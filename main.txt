@@ -1,3 +1,5 @@
 GtoG
 CtoC
 DtoD
+RtoR
+KtoK
